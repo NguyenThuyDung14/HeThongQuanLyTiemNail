@@ -1,6 +1,9 @@
 ﻿.tieude {
-    padding-left: 92px;
-    width: 100%;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 47px;
+    color: white;
+    padding-left: 1px;
     display: flex;
     justify-content: center;
 }
@@ -22,6 +25,7 @@
 .row {
     margin-right: unset !important;
     margin-left: unset !important;
+    width: 136%;
 }
 
 .block-nailbox {

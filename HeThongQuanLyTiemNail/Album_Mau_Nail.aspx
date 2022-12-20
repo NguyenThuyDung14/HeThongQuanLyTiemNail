@@ -19,33 +19,35 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div class="tieude"><span>ALBUM MẪU NAILS</span></div>
+        <div class="navabar">
+            <div class="tieude"><span>ALBUM MẪU NAILS</span></div>
+        </div>
         <div class="base">
             <div class="container">
                 <div class="row">
                     <div class="block-nailbox col-sm-5">
                         <img src="image/MauNail/Nail_Tay/1.png" />
-                        <p>Mẫu Nail Trendy</p>
+                        <p class="name-album">Mẫu Nail Trendy</p>
                     </div>
                     <div class="block-nailbox col-sm-5">
                         <img src="image/MauNail/Nail_Tay/Nail_Co_Dau_1.png" />
-                        <p>Mẫu Nail Cô Dâu</p>
+                        <p class="name-album">Mẫu Nail Cô Dâu</p>
                     </div>
                     <div class="block-nailbox col-sm-5">
                         <img src="image/MauNail/Nail_Tay/Nail_Den_1.png" />
-                        <p>Mẫu Nail Màu Đen</p>
+                        <p class="name-album">Mẫu Nail Màu Đen</p>
                     </div>
                     <div class="block-nailbox col-sm-5">
                         <img src="image/MauNail/Nail_Tay/Nail_Giang_Sinh.png" />
-                        <p>Mẫu Nail Giáng Sinh</p>
+                        <p class="name-album">Mẫu Nail Giáng Sinh</p>
                     </div>
                     <div class="block-nailbox col-sm-5">
                         <img src="image/MauNail/Nail_Tay/Nail_Ombre_1.png" />
-                        <p>Mẫu Nail Ombre</p>
+                        <p class="name-album">Mẫu Nail Ombre</p>
                     </div>
                     <div class="block-nailbox col-sm-5">
                         <img src="image/MauNail/Nail_Tay/Nail_Tet_1.png" />
-                        <p>Mẫu Nail Đón Tết</p>
+                        <p class="name-album">Mẫu Nail Đón Tết</p>
                     </div>
                 </div>
 

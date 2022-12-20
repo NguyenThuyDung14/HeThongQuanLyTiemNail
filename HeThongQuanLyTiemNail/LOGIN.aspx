@@ -21,9 +21,9 @@
                 <input type="text" name="txt_SoDienThoai" value="" />
                 <div class="text_login">
                     <p>Quên mật khẩu?</p>
-                    <p>Đăng ký</p>
+                    <p style="margin-left: 50px">Đăng ký</p>
                 </div>
-                <p>Đăng nhập</p>
+                <p class="DangNhap">Đăng nhập</p>
             </form>
         </div>
     </div>

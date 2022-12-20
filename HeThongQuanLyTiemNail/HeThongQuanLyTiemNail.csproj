@@ -67,10 +67,84 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Album_Mau_Nail.aspx" />
+    <Content Include="CSS\AlbumMauNail.css" />
+    <Content Include="CSS\bootstrap.min.css" />
+    <Content Include="CSS\css_Longin.css" />
+    <Content Include="CSS\font-awesome.min.css" />
+    <Content Include="CSS\footer.css" />
+    <Content Include="CSS\jquery.fancybox.min.css" />
+    <Content Include="CSS\owl.carousel.min.css" />
+    <Content Include="CSS\owl.theme.default.min.css" />
+    <Content Include="CSS\style.css" />
+    <Content Include="image\Album_Mau_Nail\background.jpg" />
+    <Content Include="image\Footer\admin .png" />
+    <Content Include="image\Footer\messenger.png" />
+    <Content Include="image\Footer\phone.png" />
+    <Content Include="image\Footer\sala.png" />
+    <Content Include="image\Login\login_nen.jpg" />
+    <Content Include="image\Login\longin_logo.png" />
+    <Content Include="image\MauNail\Nail_Chan\1.png" />
+    <Content Include="image\MauNail\Nail_Chan\10.png" />
+    <Content Include="image\MauNail\Nail_Chan\2.png" />
+    <Content Include="image\MauNail\Nail_Chan\3.png" />
+    <Content Include="image\MauNail\Nail_Chan\4.png" />
+    <Content Include="image\MauNail\Nail_Chan\5.png" />
+    <Content Include="image\MauNail\Nail_Chan\6.png" />
+    <Content Include="image\MauNail\Nail_Chan\7.png" />
+    <Content Include="image\MauNail\Nail_Chan\8.png" />
+    <Content Include="image\MauNail\Nail_Chan\9.png" />
+    <Content Include="image\MauNail\Nail_Tay\1.png" />
+    <Content Include="image\MauNail\Nail_Tay\2.png" />
+    <Content Include="image\MauNail\Nail_Tay\3.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Co_Dau_1.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Co_Dau_2.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Co_Dau_3.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Co_Dau_4.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Co_Dau_5.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Co_Dau_6.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Den_1.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Den_2.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Den_3.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Den_4.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Den_5.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Den_6.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Giang_Sinh.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Giang_Sinh_1.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Giang_Sinh_2.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Giang_Sinh_3.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Ombre_1.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Ombre_2.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Ombre_3.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Ombre_4.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Ombre_5.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Ombre_6.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Tet_1.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Tet_2.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Tet_3.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Tet_4.png" />
+    <Content Include="image\MauNail\Nail_Tay\Nail_Tet_5.png" />
+    <Content Include="JS\footer.js" />
+    <Content Include="JS\jquery-3.3.1.min.js" />
+    <Content Include="JS\owl.carousel.min.js" />
+    <Content Include="LOGIN.aspx" />
+    <Content Include="TrangChu.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Album_Mau_Nail.aspx.cs">
+      <DependentUpon>Album_Mau_Nail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LOGIN.aspx.cs">
+      <DependentUpon>LOGIN.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TrangChu.aspx.cs">
+      <DependentUpon>TrangChu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

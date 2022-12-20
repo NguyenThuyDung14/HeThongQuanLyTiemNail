@@ -5,10 +5,13 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-public partial class TrangChu : System.Web.UI.Page
+namespace HeThongQuanLyTiemNail
 {
-    protected void Page_Load(object sender, EventArgs e)
+    public partial class WebForm1 : System.Web.UI.Page
     {
+        protected void Page_Load(object sender, EventArgs e)
+        {
 
+        }
     }
 }

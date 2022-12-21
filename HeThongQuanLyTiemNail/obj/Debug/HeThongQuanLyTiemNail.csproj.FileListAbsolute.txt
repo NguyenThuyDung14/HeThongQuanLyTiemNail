@@ -57,3 +57,13 @@ C:\Users\ADMIN\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\obj\Debug\HeT
 C:\Users\ADMIN\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\obj\Debug\HeThongQuanLyTiemNail.csproj.CopyComplete
 C:\Users\ADMIN\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\obj\Debug\HeThongQuanLyTiemNail.dll
 C:\Users\ADMIN\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\obj\Debug\HeThongQuanLyTiemNail.pdb
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\bin\HeThongQuanLyTiemNail.dll.config
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\bin\HeThongQuanLyTiemNail.dll
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\bin\HeThongQuanLyTiemNail.pdb
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\obj\Debug\HeThongQuanLyTiemNail.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\obj\Debug\HeThongQuanLyTiemNail.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\obj\Debug\HeThongQuanLyTiemNail.csproj.CopyComplete
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\obj\Debug\HeThongQuanLyTiemNail.dll
+C:\Users\win\Desktop\HeThongQuanLyTiemNail\HeThongQuanLyTiemNail\obj\Debug\HeThongQuanLyTiemNail.pdb
